@@ -1,5 +1,4 @@
 # Java-Projeleri
-Java ile geliştirilmiş basit düzeyde uygulamalar...
 BENİM ALGORİTMA VE PROGRAMLAMA SORUM:
 bankalardaki faiz sorununa çözüm olacak bir soru hazırlayalım. 
 Banka isimli bir temel sınıf oluşturunuz. 
